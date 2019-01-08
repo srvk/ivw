@@ -24,7 +24,7 @@ OpenSim server, and Kaldi speech recognizer).
 Next up, you'll want to click the icon that brings up the MonoDevelop IDE, and in it
 open and run the IVW solution.
 
-Please refer to this [README](http://speechkitchen.org/ivw-readme-2/) for extensive details
+Please refer to this [README](http://speech-kitchen.org/ivw-readme-2/) for extensive details
 on setting up and running.
 
 NOTE: Substitute 'vagrant' for 'mario' whenever referring to user id or home folder.
